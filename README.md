@@ -1,5 +1,11 @@
 # lua-mac - Mac OS X installers for Lua
 
+# DEPRECATED
+
+Mac users are advised to install lua via [Homebrew](http://mxcl.github.io/homebrew/):
+
+    brew install lua
+
 # ABOUT
 
 lua-mac takes folders of Lua binaries and wraps them in basic PKG installers that add `lua`, `luac`, and `bin2c` to `PATH`.
